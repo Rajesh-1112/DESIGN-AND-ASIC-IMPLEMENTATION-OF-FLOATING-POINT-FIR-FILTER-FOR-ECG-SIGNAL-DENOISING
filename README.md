@@ -1,0 +1,2 @@
+# DESIGN-AND-ASIC-IMPLEMENTATION-OF-FLOATING-POINT-FIR-FILTER-FOR-ECG-SIGNAL-DENOISING
+This project focuses on designing and implementing a floating-point FIR filter for ECG signal denoising using IEEE 754 arithmetic. MATLAB and Verilog are used, along with Rectangular, Hanning, Hamming, and Blackman window techniques, to achieve accurate and hardware-efficient filtering for ASIC/FPGA biomedical applications.
